@@ -14,22 +14,14 @@
 
     <menu>
         <div class="menu-izquierda">
-            <a href="https://index.php" > <img src=".images/menu.png" alt="">
-
-
-        </a>
-
-
-            
-
-
-
-
-
-        </div>
-
-
-
-    </menu>
+            <a href="index.php" >
+                 <img src="./Images/Logo Ucerm.jpeg" alt="">
+                </a>
+            </div>
+            <div class "menu-derecha">
+                <a class = "enlaces-menu-derecha" href="https:google.com">Primer Ingreso</a>
+                <a class = "enlaces-menu-derecha" href="https:google.com">Aula en Linea</a>
+            </div>
+        </menu>
 
 </html>
