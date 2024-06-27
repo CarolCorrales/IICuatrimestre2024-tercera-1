@@ -10,8 +10,12 @@
                  <img src="./Images/Clases-en-linea-1.png" alt="">
                 </a>
             </div>
+        
     </div>
+   
 </body>
+
+
 
 
 <?php require_once "./parte_inferior.php"?>
