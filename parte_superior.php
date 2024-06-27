@@ -18,12 +18,18 @@
             <img src="./Images/Logo Ucerm.jpeg" alt="">
         </a>
     </div>
+
     <div class="menu-container">
-        <div class "menu-derecha">
+        <div class="menu-derecha">
             <a class="enlaces-menu-derecha" href="https:google.com">Primer Ingreso</a>
             <a class="enlaces-menu-derecha" href="https:google.com">Aula en Linea</a>
         </div>
+        <div class="hamburger-icon">
+            <span></span>
+            <span></span>
+            <span></span>
 
+        </div>
 
     </div>
 </menu>
